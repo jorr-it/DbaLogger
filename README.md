@@ -9,4 +9,4 @@ https://www.codeproject.com/Articles/1173686/A-Csharp-System-Tray-Application-us
 Description of the interface protocol of the sound level meter in PDF:
 http://www.produktinfo.conrad.com/datenblaetter/100000-124999/100680-da-01-en-Schnittstellenbeschr_Schallpegelm_SL_300.pdf
 
-Written .NET version 4.6.1 using Entity Framework 6 with a Code First connection of MySQL.
+Written .NET version 4.6.1 using Entity Framework 6 with a Code First connection to MySQL.
