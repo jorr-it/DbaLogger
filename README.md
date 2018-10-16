@@ -1,7 +1,7 @@
 # DbaLogger
 WPF application for storing dBA measurements
 
-This Windows desktop application reads the raw data stream from the sound level meter Ruby Electronics DT-8851 and DT-8852 also known as Voltcraft SL-400 and stores it as a dBA measurement per second in a MySQL table.
+This Windows desktop application reads the raw data stream from the sound level meter DT-8851 and DT-8852 also known as Voltcraft SL-400 and stores it as a dBA measurement per second in a MySQL table.
 
 The application is higly based on the source code of this project by Leif Simon Goodwin:
 https://www.codeproject.com/Articles/1173686/A-Csharp-System-Tray-Application-using-WPF-Forms
